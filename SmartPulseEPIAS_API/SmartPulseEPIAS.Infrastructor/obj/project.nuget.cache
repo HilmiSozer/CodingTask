@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uPCFXHjuWG0=",
+  "dgSpecHash": "P7UMcjWDEkw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hilmi\\OneDrive\\Masaüstü\\SmartPulseEPIAS_API\\SmartPulseEPIAS\\SmartPulseEPIAS.Infrastructor\\SmartPulseEPIAS.Infrastructor.csproj",
+  "projectFilePath": "c:\\Users\\hilmi\\OneDrive\\Masaüstü\\GIT\\CodingTask\\SmartPulseEPIAS_API\\SmartPulseEPIAS.Infrastructor\\SmartPulseEPIAS.Infrastructor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hilmi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0\\microsoft.extensions.caching.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\hilmi\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0\\microsoft.extensions.caching.memory.9.0.0.nupkg.sha512",

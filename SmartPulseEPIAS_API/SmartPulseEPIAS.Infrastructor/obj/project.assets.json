@@ -684,11 +684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hilmi\\OneDrive\\Masaüstü\\SmartPulseEPIAS_API\\SmartPulseEPIAS\\SmartPulseEPIAS.Infrastructor\\SmartPulseEPIAS.Infrastructor.csproj",
+      "projectUniqueName": "c:\\Users\\hilmi\\OneDrive\\Masaüstü\\GIT\\CodingTask\\SmartPulseEPIAS_API\\SmartPulseEPIAS.Infrastructor\\SmartPulseEPIAS.Infrastructor.csproj",
       "projectName": "SmartPulseEPIAS.Infrastructor",
-      "projectPath": "C:\\Users\\hilmi\\OneDrive\\Masaüstü\\SmartPulseEPIAS_API\\SmartPulseEPIAS\\SmartPulseEPIAS.Infrastructor\\SmartPulseEPIAS.Infrastructor.csproj",
+      "projectPath": "c:\\Users\\hilmi\\OneDrive\\Masaüstü\\GIT\\CodingTask\\SmartPulseEPIAS_API\\SmartPulseEPIAS.Infrastructor\\SmartPulseEPIAS.Infrastructor.csproj",
       "packagesPath": "C:\\Users\\hilmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hilmi\\OneDrive\\Masaüstü\\SmartPulseEPIAS_API\\SmartPulseEPIAS\\SmartPulseEPIAS.Infrastructor\\obj\\",
+      "outputPath": "c:\\Users\\hilmi\\OneDrive\\Masaüstü\\GIT\\CodingTask\\SmartPulseEPIAS_API\\SmartPulseEPIAS.Infrastructor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hilmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
